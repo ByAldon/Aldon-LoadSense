@@ -1,5 +1,4 @@
-# JOLT LoadSense
-<img src="https://github.com/user-attachments/assets/2023fb9d-3c15-486e-9faf-4f4a167f01e4" alt="Image for the wordpress plugin" width="300" >
+# Aldon LoadSense
 
 A true preloader that waits until the entire page has fully loaded (images, scripts, fonts) before showing the content.<br>
 
@@ -23,4 +22,5 @@ You can read how to install [here](https://github.com/DevAldon/WordPress/wiki/Ho
 
 To read more about my Security, privacy and Usage Policy,<br>
 Please follow this link: https://github.com/DevAldon/WordPress/blob/main/SECURITY.md
+
 
