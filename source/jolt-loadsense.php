@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: JOLT LoadSense
-Plugin URI: https://github.com/johnoltmans/JOLT-LoadSense
+Plugin Name: Aldon LoadSense
+Plugin URI: https://github.com/ByAldon/Aldon-LoadSense
 Description: Add a stylish preloader to your WordPress site to indicate to visitors that the page is still loading. Easy to install and customize for an enhanced user experience.
 Version: 1.0
 Requires at least: 6.8
