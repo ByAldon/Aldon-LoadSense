@@ -1,4 +1,6 @@
 # LoadSense
+![LoadSenseicon](https://github.com/user-attachments/assets/11fbdc6e-3c5d-4301-9b47-40c08e203c81)
+![loadsensebanner](https://github.com/user-attachments/assets/389a3254-6ac7-47b5-8750-ef21ad7a25eb)
 
 A true preloader that waits until the entire page has fully loaded (images, scripts, fonts) before showing the content.<br>
 
@@ -22,5 +24,6 @@ You can read how to install [here](https://byaldon.github.io/Aldon-Wiki/#how-to-
 
 To read more about my Security, privacy and Usage Policy,<br>
 Please follow this link: https://github.com/ByAldon/WordPress/blob/main/SECURITY.md
+
 
 
