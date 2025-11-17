@@ -8,7 +8,7 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 
 #
 ### Download your plugin here
-Download the plugin [here](https://github.com/ByAldon/Aldon-LoadSense/raw/refs/heads/main/install/JOLT-LoadSense.zip).<br>
+Download the plugin [here](https://github.com/ByAldon/Aldon-LoadSense/raw/refs/heads/main/install/loadsense.zip).<br>
 You can read how to install [here](https://byaldon.github.io/Aldon-Wiki/#how-to-install-the-plugins).
 #
 
@@ -24,6 +24,7 @@ You can read how to install [here](https://byaldon.github.io/Aldon-Wiki/#how-to-
 
 To read more about my Security, privacy and Usage Policy,<br>
 Please follow this link: https://github.com/ByAldon/WordPress/blob/main/SECURITY.md
+
 
 
 
