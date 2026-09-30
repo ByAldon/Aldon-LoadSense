@@ -1,3 +1,5 @@
+## This application has been moved to another instance. No new updates will be posted here. Go to: https://github.com/ByAldon/I-am-leaving-github for more information.
+
 # LoadSense
 ![LoadSenseicon](https://github.com/user-attachments/assets/11fbdc6e-3c5d-4301-9b47-40c08e203c81)
 ![loadsensebanner](https://github.com/user-attachments/assets/389a3254-6ac7-47b5-8750-ef21ad7a25eb)
